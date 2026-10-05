@@ -12,7 +12,7 @@ It is a **focused product**: a photo editor plus companion tools, country and do
 
 Passport and visa photos fail for practical reasons applicants hit every week:
 
-- **Head height** that is off by a few millimetres (chin to crown, hair included) — the failure you cannot judge by eye
+- **Head height** that is off by a few millimetres (chin to crown, hair included)   the failure you cannot judge by eye
 - **Wrong background shade** (white is not universal; UK wants light grey or cream)
 - **Digital upload caps** that fight pixel minimums (US 600×600 px but under 240 KB; Chinese visas 40–120 KB)
 - **Print files with no DPI**, so a correct crop prints at the wrong physical size
@@ -57,7 +57,7 @@ Details: [FEATURES.md](FEATURES.md) · [WORKFLOW.md](WORKFLOW.md) · [RULES.md](
 4. Review the compliance panel (head height in millimetres, background, glasses rule)
 5. Optionally replace the background and use sliders if automatic crown detection misses hair volume
 6. Export **print** (DPI written into the JPEG) and/or **digital** (pixels and kilobyte search)
-7. Enter an **email to unlock** the download — the photo file still never leaves the browser
+7. Enter an **email to unlock** the download   the photo file still never leaves the browser
 
 No account is required. See [PRIVACY.md](PRIVACY.md).
 
@@ -86,11 +86,11 @@ Photos are processed in the visitor’s browser. The [how-it-works](https://pass
 
 ## Limitations (verified from live copy)
 
-- Automatic detection can miss voluminous or light hair, hats, or headscarves — sliders exist to override
+- Automatic detection can miss voluminous or light hair, hats, or headscarves   sliders exist to override
 - Background replacement cannot fix face shadows, glare, blur, or selfie perspective
 - A tightly cropped original may have **no image above the crown**, so the head cannot be scaled into range
 - Some formats in the dataset have **empty `source_url`** (ICAO-style defaults); treat those as guidance, not a cited statute
-- The live Canada PR card page currently mentions **both six-month and twelve-month** recency in different sections — confirm on [IRCC](https://www.canada.ca/en/immigration-refugees-citizenship/services/permanent-residents/card/photos.html)
+- The live Canada PR card page currently mentions **both six-month and twelve-month** recency in different sections   confirm on [IRCC](https://www.canada.ca/en/immigration-refugees-citizenship/services/permanent-residents/card/photos.html)
 
 ---
 

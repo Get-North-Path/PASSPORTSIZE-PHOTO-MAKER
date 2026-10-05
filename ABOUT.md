@@ -35,7 +35,7 @@ Philosophy matches GetNorthPath’s other public information hub, [IRCC-Ready-Do
 
 ## How it relates to GetNorthPath
 
-[GetNorthPath](https://www.getnorthpath.com) is a Canadian immigration platform: **AI-powered features and free DIY tools**, built for immigrants by immigrants. The company line is **AI for All** — immigration should be accessible, not only for people who can pay thousands for help.
+[GetNorthPath](https://www.getnorthpath.com) is a Canadian immigration platform: **AI-powered features and free DIY tools**, built for immigrants by immigrants. The company line is **AI for All**   immigration should be accessible, not only for people who can pay thousands for help.
 
 Passport Size is one of GetNorthPath’s **free public tools**. The about page states it was built because applications kept being delayed over a photo: millimetre head height, country-specific backgrounds, and digital file-size ceilings that most phone photos miss.
 

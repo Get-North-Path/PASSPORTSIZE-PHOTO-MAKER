@@ -24,10 +24,10 @@ The millimetre table on the live size page matches the public dataset (verified 
 
 ## Four size families (site copy)
 
-1. **35×45 mm ICAO family** — largest group (UK, Ireland, Germany, France, Australia, New Zealand, Japan, India passport, Singapore, and others)
-2. **2 inch square** — United States and Indian visas / OCI
-3. **50×70 mm** — Canada and Brazil
-4. **One-offs** — China 33×48, Malaysia 35×50, Bangladesh 45×55, Finland 36×47, Spain 26×32, Greece 40×60, and others listed on the size page
+1. **35×45 mm ICAO family**   largest group (UK, Ireland, Germany, France, Australia, New Zealand, Japan, India passport, Singapore, and others)
+2. **2 inch square**   United States and Indian visas / OCI
+3. **50×70 mm**   Canada and Brazil
+4. **One-offs**   China 33×48, Malaysia 35×50, Bangladesh 45×55, Finland 36×47, Spain 26×32, Greece 40×60, and others listed on the size page
 
 ---
 

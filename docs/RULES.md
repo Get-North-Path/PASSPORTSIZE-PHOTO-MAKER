@@ -14,10 +14,10 @@ Related: [SOURCES.md](SOURCES.md) · [FORMAT-MODEL.md](FORMAT-MODEL.md) · [phot
 
 The live site groups rules into four buckets. Size and head position cause more refusals than the rest combined.
 
-1. **Size and head position** — outer millimetre size, chin-to-crown (hair included), centred/level head, space above the crown, and (for the United States) eye-line height
-2. **Background** — shade for that country, uniform with no wall shadow, no other people or objects
-3. **Face, expression, and eyes** — expression, both eyes visible, glasses, head coverings, even lighting
-4. **Image quality and age** — sharpness, natural colour (no filters), recency, print stock where prints are required
+1. **Size and head position**   outer millimetre size, chin-to-crown (hair included), centred/level head, space above the crown, and (for the United States) eye-line height
+2. **Background**   shade for that country, uniform with no wall shadow, no other people or objects
+3. **Face, expression, and eyes**   expression, both eyes visible, glasses, head coverings, even lighting
+4. **Image quality and age**   sharpness, natural colour (no filters), recency, print stock where prints are required
 
 Head height is measured **chin to crown, hair included**. The site reports the measured millimetre figure rather than asking you to guess from the crop.
 
@@ -39,7 +39,7 @@ Head height is measured **chin to crown, hair included**. The site reports the m
 | Head coverings | Religious or medical reasons, full face visible chin to forehead, no shadow |
 | Lighting | Even light on the face; no hot spots, red-eye, or one-sided shadow. Face a window |
 | Sharpness | At least 600 px on the short side of the source; no filters or beautification |
-| Recency | Usually within six months. USCIS: within 30 days of filing. Greece: within one month. Canadian PR: confirm on IRCC (the live PR page currently mentions both six and twelve months in different sections — use [IRCC PR photos](https://www.canada.ca/en/immigration-refugees-citizenship/services/permanent-residents/card/photos.html)) |
+| Recency | Usually within six months. USCIS: within 30 days of filing. Greece: within one month. Canadian PR: confirm on IRCC (the live PR page currently mentions both six and twelve months in different sections   use [IRCC PR photos](https://www.canada.ca/en/immigration-refugees-citizenship/services/permanent-residents/card/photos.html)) |
 | Print stock | Matte or semi-matte photo paper, not glossy office paper |
 
 Source for this section: [Photo requirements](https://passportsize.getnorthpath.com/photo-requirements) (live page, reviewed against site copy 5 October 2026).

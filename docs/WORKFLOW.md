@@ -25,7 +25,7 @@ Home copy describes this as **four steps, about three minutes**: upload → meas
 ## Wrong background colour
 
 1. [Background remover](https://passportsize.getnorthpath.com/tools/background-remover), or turn replacement on in the photo maker
-2. Pick the shade for that country (white is not always correct — UK grey/cream, Ireland/Germany light grey)
+2. Pick the shade for that country (white is not always correct   UK grey/cream, Ireland/Germany light grey)
 3. Retake the photo if the **face** is shadowed; replacement cannot fix lighting on the subject
 
 Read: [Background colour by country](https://passportsize.getnorthpath.com/blog/passport-photo-background-colour-by-country)
@@ -35,7 +35,7 @@ Read: [Background colour by country](https://passportsize.getnorthpath.com/blog/
 ## Existing photo, need an exact crop
 
 1. [Crop to passport size](https://passportsize.getnorthpath.com/tools/crop-photo-to-passport-size) or [Convert photo to passport size](https://passportsize.getnorthpath.com/tools/convert-photo-to-passport-size)
-2. If the original has no space above the hair, the compliance panel should flag a cut-off crown — take a wider source photo
+2. If the original has no space above the hair, the compliance panel should flag a cut-off crown   take a wider source photo
 3. Export print and digital separately if the authority wants both
 
 ---
@@ -99,7 +99,7 @@ Related: [Compress image](https://passportsize.getnorthpath.com/tools/compress-i
 ## Several countries from one sitting
 
 1. Take one high-resolution photo with **generous space** around the head, facing a window, ~2 m from the camera
-2. Export separately for each country — do not reuse one output file for a different head-height rule
+2. Export separately for each country   do not reuse one output file for a different head-height rule
 3. Outer 35×45 mm is shared widely, but UK 29–34 mm vs Ireland 31.5–36 mm still differ
 
 ---

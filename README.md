@@ -1,6 +1,6 @@
 # GetNorthPath Passport Photo
 
-![GetNorthPath Passport Photo](assets/readme-hero.png)
+![GetNorthPath Passport Photo](assets/brand-image.png)
 
 > **Create a compliant passport, visa, or ID photo in your browser.**
 
@@ -40,7 +40,7 @@ Image processing runs **in your browser**. There is no image-upload endpoint. Fa
 
 ### Live hub
 
-![Home](assets/home-hub.png)
+![Home](assets/readme-hero.png)
 
 [Make a photo](https://passportsize.getnorthpath.com/) · [Browse tools](https://passportsize.getnorthpath.com/tools) · [Find a country](https://passportsize.getnorthpath.com/passport-photo-by-country)
 
